@@ -1,0 +1,14 @@
+wheel
+pyhere
+
+numpy 
+pandas
+
+openpyxl
+
+pandas-flavor
+pandas-profiling
+
+plotly 
+matplotlib 
+
