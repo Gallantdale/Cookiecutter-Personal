@@ -13,4 +13,7 @@ pandas-profiling
 
 plotly 
 matplotlib 
+seaborn
+
+pylint
 
