@@ -1,5 +1,6 @@
 wheel
 pyhere
+jupyterlab
 
 numpy 
 pandas
